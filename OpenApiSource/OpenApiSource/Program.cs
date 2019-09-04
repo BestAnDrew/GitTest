@@ -16,6 +16,9 @@ namespace OpenApiSource
         {
             CreateWebHostBuilder(args).Build().Run();
             //so here is the second change
+            //code was added in VS
+
+            //add new feature 1
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
